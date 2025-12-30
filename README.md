@@ -33,12 +33,13 @@ This project is being developed incrementally following industry best practices.
 ---
 
 ## Project Structure
-src/
+```src/
 ├── components/
 │ ├── SlotCard.jsx
 │ └── AdminSlotForm.jsx
 ├── App.jsx
 └── main.jsx
+```
 
 ## Future Enhancements
 
